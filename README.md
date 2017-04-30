@@ -1,4 +1,4 @@
-# Cover sheet
+Cover sheet
 Niall James Haiselden
 15411387
 https://jamesh265.github.io/csy1018/
